@@ -1,0 +1,16 @@
+com\example\copsboot\report\web\KeycloakAdminClientFacade.class
+com\example\copsboot\report\web\ReportRestControllerIntegrationTest$KeycloakToken.class
+com\example\copsboot\user\web\UserRestControllerDocumentation.class
+com\example\copsboot\user\web\UserRestControllerTest.class
+com\example\copsboot\infrastructure\test\CopsbootControllerDocumentationTest.class
+com\example\copsboot\report\web\CreateReportRequestValidatorTest.class
+com\example\copsboot\infrastructure\test\CopsbootControllerDocumentationTestConfiguration.class
+com\example\copsboot\CopsbootApplicationTests.class
+com\example\copsboot\report\web\ReportRestControllerIntegrationTest.class
+com\example\copsboot\user\UserRepositoryTest$TestConfig.class
+com\example\copsboot\infrastructure\test\CopsbootControllerTest.class
+com\example\copsboot\util\test\ConstraintViolationSetAssert.class
+com\example\copsboot\report\web\ReportRestControllerTest.class
+com\example\copsboot\user\web\CreateUserRequestValidatorTest.class
+com\example\copsboot\user\UserRepositoryTest.class
+com\example\copsboot\report\web\ReportDescriptionValidatorTest.class
