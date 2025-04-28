@@ -1,0 +1,12 @@
+|===
+|Path|Type|Description
+
+|`+subject+`
+|`+String+`
+|The subject from the JWT token
+
+|`+claims+`
+|`+Object+`
+|The claims from the JWT token
+
+|===

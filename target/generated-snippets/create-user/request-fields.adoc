@@ -1,0 +1,8 @@
+|===
+|Path|Type|Description
+
+|`+mobileToken+`
+|`+String+`
+|The unique mobile token of the device (for push notifications).
+
+|===

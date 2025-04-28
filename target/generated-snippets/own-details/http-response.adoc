@@ -1,0 +1,18 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Content-Type: application/json
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Length: 155
+
+{
+  "subject" : "aab7889c-eb8b-4824-a3b4-c5bb34c7ee03",
+  "claims" : {
+    "sub" : "aab7889c-eb8b-4824-a3b4-c5bb34c7ee03",
+    "scope" : "read"
+  }
+}
+----

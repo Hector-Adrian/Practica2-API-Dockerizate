@@ -1,0 +1,9 @@
+[source,json,options="nowrap"]
+----
+{
+  "userId" : "3bb4361a-58cf-4aae-a793-86b901d10d4b",
+  "email" : "wim@example.com",
+  "authServerId" : "eaa8b8a5-a264-48be-98de-d8b4ae2750ac",
+  "mobileToken" : "c41536a5a8b9d3f14a7e5472a5322b5e1f76a6e7a9255c2c2e7e0d3a2c5b9d0"
+}
+----

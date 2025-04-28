@@ -1,0 +1,17 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 201 Created
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Content-Type: application/json
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Length: 235
+
+{
+  "userId" : "3bb4361a-58cf-4aae-a793-86b901d10d4b",
+  "email" : "wim@example.com",
+  "authServerId" : "eaa8b8a5-a264-48be-98de-d8b4ae2750ac",
+  "mobileToken" : "c41536a5a8b9d3f14a7e5472a5322b5e1f76a6e7a9255c2c2e7e0d3a2c5b9d0"
+}
+----
